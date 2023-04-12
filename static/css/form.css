@@ -1,0 +1,19 @@
+label {
+    color: firebrick;
+}
+
+input[type=text],
+input[type=submit] {
+    padding: 1rem;
+    font-size: 1.9rem;
+}
+
+input[type=submit] {
+    background-color: firebrick;
+    color: white;
+    border: none;
+}
+
+input[type=text] {
+    width: 40%;
+}
